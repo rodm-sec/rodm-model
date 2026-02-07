@@ -56,7 +56,7 @@ To strengthen detection capability:
 ## Noise and Vulnerability Reduction
 
 To reduce noise and improve observability, access to internal systems is restricted to a designated jump server.  
-By limiting legitimate login paths, RODM reduces benign login attempts and clarifies which login transitions should be considered abnormal.
+By limiting legitimate login paths, RODM reduces benign login attempts along unauthorized paths, clarifying which transitions are abnormal.
 
 In addition, efforts are made to ensure that internal systems do not expose critical vulnerabilities.  
 This eliminates hidden or unintended attack paths, reducing ambiguity in reachability observation.
