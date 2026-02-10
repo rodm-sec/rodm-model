@@ -1,4 +1,4 @@
-# Reachability-Oriented Defense Model (RODM)
+# Reachability-Oriented Defence Model (RODM)
 
 **A practical framework for detecting lateral movement through observational asymmetry**
 
